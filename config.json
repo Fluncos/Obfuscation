@@ -1,0 +1,28 @@
+{
+    "version": "2.0.0",
+    "levels": {
+        "low": {
+            "string_encryption": false,
+            "flow_obfuscation": false,
+            "auto_modify": false,
+            "polymorphic": false
+        },
+        "medium": {
+            "string_encryption": true,
+            "flow_obfuscation": false,
+            "auto_modify": true,
+            "polymorphic": false
+        },
+        "high": {
+            "string_encryption": true,
+            "flow_obfuscation": true,
+            "auto_modify": true,
+            "polymorphic": true
+        }
+    },
+    "char_table": "https://raw.githubusercontent.com/seu-user/seu-repo/main/char_table.lua",
+    "techniques": {
+        "auto_modify": "https://raw.githubusercontent.com/seu-user/seu-repo/main/auto_modify.lua",
+        "flow_obf": "https://raw.githubusercontent.com/seu-user/seu-repo/main/flow_obf.lua"
+    }
+}
