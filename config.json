@@ -20,7 +20,7 @@
             "polymorphic": true
         }
     },
-    "char_table": "https://raw.githubusercontent.com/seu-user/seu-repo/main/char_table.lua",
+    "char_table": "https://raw.githubusercontent.com/Fluncos/Obfuscation/main/char_table.lua",
     "techniques": {
         "auto_modify": "https://raw.githubusercontent.com/seu-user/seu-repo/main/auto_modify.lua",
         "flow_obf": "https://raw.githubusercontent.com/seu-user/seu-repo/main/flow_obf.lua"
