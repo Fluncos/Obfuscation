@@ -22,7 +22,7 @@
     },
     "char_table": "https://raw.githubusercontent.com/Fluncos/Obfuscation/main/char_table.lua",
     "techniques": {
-        "auto_modify": "https://raw.githubusercontent.com/seu-user/seu-repo/main/auto_modify.lua",
+        "auto_modify": "https://raw.githubusercontent.com/Fluncos/Obfuscation/main/auto_modify.lua",
         "flow_obf": "https://raw.githubusercontent.com/Fluncos/Obfuscation/main/flow_obf.lua"
     }
 }
